@@ -5,3 +5,7 @@ curl -fsSL \
   -o /tmp/ngosen-tools.sh &&
 bash /tmp/ngosen-tools.sh
 ````
+
+````bash
+curl -fsSL https://raw.githubusercontent.com/longnguyen2026/ngosen-linux-tools/main/ngosen-tools.sh -o /tmp/ngosen-tools.sh && bash /tmp/ngosen-tools.sh
+````
