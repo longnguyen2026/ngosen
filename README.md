@@ -8,5 +8,5 @@ bash /tmp/ngosen-tools.sh
 ````
 ## Lệnh cài đặt bộ gõ tiếng việt Ngó Sen bản dành cho Mint
 ````bash
-curl -fsSL https://raw.githubusercontent.com/longnguyen2026/ngosen-linux-tools/main/ngosen-tools.sh -o /tmp/ngosen-tools.sh && bash /tmp/ngosen-tools.sh
+curl -fsSL https://raw.githubusercontent.com/longnguyen2026/ngosen/main/ngosen_mint.sh -o /tmp/ngosen_mint.sh && bash /tmp/ngosen_mint.sh
 ````
