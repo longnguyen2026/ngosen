@@ -1,4 +1,4 @@
-#Lệnh cài đặt bộ gõ tiếng việt Ngó Sen
+# Lệnh cài đặt bộ gõ tiếng việt Ngó Sen
 ````bassh
 curl -fsSL \
   https://raw.githubusercontent.com/longnguyen2026/ngosen-linux-tools/main/ngosen-tools.sh \
