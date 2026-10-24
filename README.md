@@ -3,8 +3,8 @@
 ````bassh
 curl -fsSL \
   https://raw.githubusercontent.com/longnguyen2026/ngosen/main/ngosen.sh \
-  -o /tmp/ngosen-tools.sh &&
-bash /tmp/ngosen-tools.sh
+  -o /tmp/ngosen.sh &&
+bash /tmp/ngosen.sh
 ````
 ## Lệnh cài đặt bộ gõ tiếng việt Ngó Sen bản dành cho Mint
 ````bash
